@@ -1,0 +1,5 @@
+channels:
+  - default
+dependencies:
+  - black=25.1.0
+  - flake8=7.1.1
